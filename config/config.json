@@ -1,0 +1,11 @@
+{
+  "listen": {
+    "ip": "0.0.0.0",
+    "port": 3000
+  },
+  "ews": {
+    "username": "user",
+    "password": "password",
+    "host": "https://localhost"
+  }
+}
